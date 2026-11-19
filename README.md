@@ -2,6 +2,10 @@
 
 This project is a simple online calculator that can be hosted on GitHub Pages. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+# Query
+
+"Create an online calculator that is deployed and hosted on my GitHub.io page"
+
 ## Project Structure
 
 - `index.html`: The main HTML document that contains the structure of the calculator interface.
